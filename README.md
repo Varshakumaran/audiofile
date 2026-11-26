@@ -29,8 +29,8 @@ Step 7: Save and run the application.
 ```
 /*
 Program to play and control the audio file”.
-Developed by: SAI DESHIYA K
-Registeration Number :212224220084
+Developed by: VARSHA K
+Registeration Number :212223220122
 */
 ```
 ## activity_main.xml:
